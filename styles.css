@@ -1,3 +1,18 @@
-body{background-color: black;}
+h1 {
+     text-align: center;
+    fort-size: 50px;
+    color: #ff0000;
+
+}
+
+
+p {
+    text-align: justify;
+}
+
+
+
+
+body{background-color: rgb(0, 0, 0);}
 p{text-align:center}
 strong {color#red}
