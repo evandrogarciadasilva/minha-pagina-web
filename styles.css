@@ -1,5 +1,4 @@
 body{
-   
     background: green
 }
 
@@ -11,7 +10,7 @@ body{
 
 p1 {
      text-align: justify;
-    fort-size: 20px;
+    font-size: 20px;
     color: black; }
 
 
@@ -24,5 +23,36 @@ p2 {
 #img1{
     display: block;
     margin: 0 auto; }
+  
 
-#titulo
+#titulo2{
+    text-align: center;
+    font-size: 30px;
+    color:blue; }
+
+.ul{
+     display: inline-block;
+     vertical-align: top;
+     width: 20%;
+     margin-right: 15%;
+     font-size: 20px;
+}
+
+
+#img2{
+    width: 50%;
+}
+
+header{
+    text-align: center;
+    font-size: 50%;
+    color: black;
+}   
+
+
+.principal{
+    background: green;}
+
+.beneficios{
+    background: black;}
+
